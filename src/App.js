@@ -1,6 +1,6 @@
 import { useLayoutEffect } from "react";
 import { connect } from "react-redux";
-import "./App.css";
+
 import { Routes, Route } from "react-router-dom";
 
 import Header from "./components/Header/Header.component";
@@ -18,7 +18,7 @@ let theme = createTheme({
   typography: {
     fontFamily: ["Cairo", "sans-serif"].join(","),
   },
-  // direction: i18n.language === "ar" ? "rtl" : "ltr",
+  direction: cookies.get("i18next") === "ar" ? "rtl" : "ltr",
 });
 theme = responsiveFontSizes(theme);
 
