@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bosta-tracking-app/static/css/main.29ac797e.css",
-    "main.js": "/bosta-tracking-app/static/js/main.7dab180b.js",
+    "main.js": "/bosta-tracking-app/static/js/main.faf2bad1.js",
     "static/media/bosta_logo_en.svg": "/bosta-tracking-app/static/media/bosta_logo_en.c0e658a4bfc57da5f577.svg",
     "static/media/bosta_logo_ar.svg": "/bosta-tracking-app/static/media/bosta_logo_ar.262497440070bf48204c.svg",
     "index.html": "/bosta-tracking-app/index.html",
     "static/media/getFetch.cjs": "/bosta-tracking-app/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.29ac797e.css.map": "/bosta-tracking-app/static/css/main.29ac797e.css.map",
-    "main.7dab180b.js.map": "/bosta-tracking-app/static/js/main.7dab180b.js.map"
+    "main.faf2bad1.js.map": "/bosta-tracking-app/static/js/main.faf2bad1.js.map"
   },
   "entrypoints": [
     "static/css/main.29ac797e.css",
-    "static/js/main.7dab180b.js"
+    "static/js/main.faf2bad1.js"
   ]
 }
