@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29ac797e.css",
+    "main.js": "/static/js/main.d721c984.js",
+    "static/media/bosta_logo_en.svg": "/static/media/bosta_logo_en.c0e658a4bfc57da5f577.svg",
+    "static/media/bosta_logo_ar.svg": "/static/media/bosta_logo_ar.262497440070bf48204c.svg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.29ac797e.css.map": "/static/css/main.29ac797e.css.map",
+    "main.d721c984.js.map": "/static/js/main.d721c984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ac797e.css",
+    "static/js/main.d721c984.js"
+  ]
+}
